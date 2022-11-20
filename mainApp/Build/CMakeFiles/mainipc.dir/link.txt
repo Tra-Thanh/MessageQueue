@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mainipc.dir/main.cpp.o CMakeFiles/mainipc.dir/sources/foo.cpp.o -o mainipc 

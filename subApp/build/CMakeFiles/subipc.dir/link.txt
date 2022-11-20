@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/subipc.dir/main.cpp.o CMakeFiles/subipc.dir/sources/foo.cpp.o -o subipc 

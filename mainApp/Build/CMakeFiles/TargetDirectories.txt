@@ -1,0 +1,3 @@
+/home/ubuntu/workSpace/ipcDemo/mainApp/Build/CMakeFiles/mainipc.dir
+/home/ubuntu/workSpace/ipcDemo/mainApp/Build/CMakeFiles/edit_cache.dir
+/home/ubuntu/workSpace/ipcDemo/mainApp/Build/CMakeFiles/rebuild_cache.dir
